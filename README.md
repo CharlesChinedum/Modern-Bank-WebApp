@@ -1,1 +1,5 @@
-live link 👉🏾 https://modern-bank-webapp.netlify.app/
+**live link** 👉🏾 https://modern-bank-webapp.netlify.app/
+**Techonolies/Tools**
+Vite
+React
+TailwindCss
